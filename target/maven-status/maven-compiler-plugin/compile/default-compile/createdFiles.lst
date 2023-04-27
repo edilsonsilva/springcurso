@@ -1,0 +1,5 @@
+com\projeto\spring\curso\controller\CursoController.class
+com\projeto\spring\curso\controller\TurmaController.class
+com\projeto\spring\curso\SpringcursoApplication.class
+com\projeto\spring\curso\domain\Curso.class
+com\projeto\spring\curso\repository\CursoRepository.class
